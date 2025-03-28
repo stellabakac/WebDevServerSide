@@ -1,4 +1,4 @@
-# PDO_CRUD_APPLET
+# WebDevServerSide
 
 This is a simple CRUD app I made for the Sessions Lab (Practical Work Block 2).  
 It’s built with PHP and MySQL, and uses PDO for database stuff.
